@@ -1,7 +1,7 @@
 import sys
 
 #sales tax for Seattle
-DEFAULT_SALES_TAX = 0.096
+DEFAULT_SALES_TAX = 0.101
 #number of bonus stars per $1 pretax spent
 DEFAULT_BONUS_STARS_PER_UNIT = 2
 #ratio of bonus stars : $ amount pretax spent
